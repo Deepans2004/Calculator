@@ -1,0 +1,1 @@
+Our Interactive Calculator project is a web-based application designed to perform basic arithmetic operations. Developed using HTML, CSS, and JavaScript, this calculator offers users a simple yet efficient way to perform calculations right from their web browser.
